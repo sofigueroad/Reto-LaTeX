@@ -1,0 +1,35 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Caracteres especiales}{4}
+\contentsline {section}{\numberline {2}Referencias Cruzadas}{4}
+\contentsline {section}{\numberline {3}Notas al pie}{5}
+\contentsline {section}{\numberline {4}Listas}{5}
+\contentsline {subsection}{\numberline {4.1}Listas numeradas}{5}
+\contentsline {subsection}{\numberline {4.2}Listas no numeradas}{5}
+\contentsline {subsubsection}{\numberline {4.2.1}Listas Personalizadas}{6}
+\contentsline {subsubsection}{\numberline {4.2.2}Anidaciones}{7}
+\contentsline {section}{\numberline {5}Tablas}{7}
+\contentsline {section}{\numberline {6}F\'ormulas matem\'aticas}{8}
+\contentsline {subsection}{\numberline {6.1}F\'ormulas en l\'inea}{9}
+\contentsline {subsection}{\numberline {6.2}F\'ormulas independientes}{9}
+\contentsline {subsection}{\numberline {6.3}F\'ormulas de varias l\'ineas}{9}
+\contentsline {section}{\numberline {7}Justificaci\'on de p\'arrafos}{9}
+\contentsline {subsection}{\numberline {7.1}Texto centrado}{9}
+\contentsline {subsubsection}{\numberline {7.1.1}Centrar una l\'inea}{9}
+\contentsline {subsubsection}{\numberline {7.1.2}Centrar varias l\'ineas y otros materiales \LaTeX }{10}
+\contentsline {section}{\numberline {8}Formato de fuente}{10}
+\contentsline {subsection}{\numberline {8.1}Tipos de fuentes \LaTeX }{10}
+\contentsline {subsection}{\numberline {8.2}Combinaci\'on de fuentes}{10}
+\contentsline {subsection}{\numberline {8.3}Modos enf\'aticos}{10}
+\contentsline {subsection}{\numberline {8.4}Tama\~no de fuente}{11}
+\contentsline {subsubsection}{\numberline {8.4.1}Uso de los tama\~nos y combinaci\'on con tipos de fuentes}{11}
+\contentsline {subsection}{\numberline {8.5}Texto subrayado}{11}
+\contentsline {section}{\numberline {9}Cajas}{11}
+\contentsline {subsection}{\numberline {9.1}Cajas con una sola l\'inea de texto}{12}
+\contentsline {section}{\numberline {10}Inclusi\'on de archivos}{12}
+\contentsline {subsection}{\numberline {10.1}Gr\'aficos}{12}
+\contentsline {subsection}{\numberline {10.2}Ubicaci\'on de gr\'aficos}{14}
+\contentsline {section}{\numberline {11}Comandos personalizados}{14}
+\contentsline {subsection}{\numberline {11.1}Matando dos p\'ajaros de un tiro: Matrices y Comandos...}{15}
+\contentsline {section}{\numberline {12}Ambientes personalizados}{15}
+\contentsline {section}{\numberline {13}Verbatim -Formato C\'odigo}{15}
+\contentsline {section}{\numberline {14}Referencias bibliogr\'aficas}{16}

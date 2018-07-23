@@ -1,0 +1,56 @@
+
+%% %-----Preambulo ----- % % %
+
+%Tipo de Documento: 
+\documentclass{report} 
+
+%Este paquete es utilizado para personalizar elementos por idioma: 
+\usepackage[spanish ,mexico]{babel} 
+  
+%Este paquete es utilizado para la codificaci\’on de entrada: 
+\usepackage[utf8]{inputenc} 
+
+%Este paquete se utiliza para separar el texto en columnas
+\usepackage{multicol}
+\setlength{\columnseprule}{1pt}
+
+%Otras declaraciones: 
+\title{Un poco de Matem\'aticas}
+\date{}
+
+
+
+%%%----Cuerpo----- %%%
+\begin{document}  
+\maketitle 
+
+\section{Serie de Fourier}
+
+{\Huge U}{\large na serie de \textbf{\emph{Fourier}}\textit{es una serie infinita} que converge puntualmente a una funci\'on peri\'odica y continua a trozos (o por partes).}
+
+\bigskip
+\bigskip
+
+\begin{flushright}
+{\tiny Las} {\scriptsize series}{ \footnotesize de} {\small Fourier} {\normalsize constituyen} {\large la} {\Large herramienta} {\LARGE matem\'atica}\\
+{\huge b\'asica} {\Huge del} {\huge an\'alisis} {\LARGE de} {\Large Fourier} {\large empleado para}\\
+\large analizar funciones peri\'odicas a trav\'es de la descomposici\'on de\\
+dicha funci\'on en  una suma infinita de funciones sinusoidales mucho\\
+m\'as simples (como combinaci\'on de senos y cosenos con frecuencias\\
+enteras). \texttt{El nombre se debe al matem\'atico franc\'es}\\
+\texttt{Jean-Baptiste Joseph Fourier, que desarroll\'o la teor\'ia}\\
+\texttt{cuando estudiaba la ecuaci\'on del calor.}
+\end{flushright}
+
+\smallskip
+
+\textsc{\large Las series de} \textbf{\LARGE Fourier} \textsc{\large tienen la forma:}
+
+\smallskip
+
+\begin{eqnarray}
+\frac{a_0}{2}\sum_{i=1}^{\infty}[a_n \cos\frac{2n\pi}{T}t + b_n \sin\frac{2n\pi}{T}]
+\end{eqnarray}
+{\large Donde $a_n$ y $b_n$ se denominan coeficiente de Fourier de la serie de Fourier de la funci\'on $f(x)$ en 1.}
+
+\end{document}
